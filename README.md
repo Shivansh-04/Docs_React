@@ -87,7 +87,10 @@ npm run dev
 
 ## 📸 Screenshots
 
-_(💡 Soon!)_
+_<p align="center">
+  <img src="./src/assets/Home.png" alt="Home" width="300" style="display:inline-block; margin-right:10px;" />
+  <img src="./src/assets/Sample.png" alt="Sample" width="300" style="display:inline-block;" />
+</p>_
 
 ---
 
