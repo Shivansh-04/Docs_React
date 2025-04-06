@@ -65,8 +65,8 @@ This app is built using **React** and **Tailwind CSS**, offering a **minimalist 
 ### 🔹 Clone the Repository
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/notes-app.git
-cd notes-app
+git clone https://github.com/Shivansh-04/Docs_React.git
+cd docs
 ```
 
 ### 🔹 Install Dependencies
